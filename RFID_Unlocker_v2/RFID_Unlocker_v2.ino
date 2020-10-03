@@ -1,6 +1,6 @@
 //Get library from https://github.com/ljos/MFRC522
-//Sketch: gudjonholm@gmail.com
-//Modifications: wildeng@hotmail.com
+//Sketch: https://github.com/guttih
+//Modifications:https://github.com/wildeng
 
 /*
 Pins    SPI        UNO    Mega2560  Leonardo
@@ -64,6 +64,7 @@ void loop() {
      *  so that a custom Ruby script can read it and use it to get the password from 
      *  a secret YAML file
      */
+
 
    
     
