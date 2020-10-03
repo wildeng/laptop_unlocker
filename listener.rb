@@ -7,7 +7,6 @@
 # a secret YAML file.
 # It then writes it on serial port
 
-#require 'serialport'
 require 'rubyserial'
 require 'yaml'
 
@@ -18,7 +17,6 @@ PORT_STR = '/dev/tty.usbmodemHIDPC1'.freeze
 BAUD_RATE = 9600
 DATA_BITS = 8
 STOP_BITS = 1
-#parity = Serial::NONE
 
 # opening communication with serial port
 sp = Serial.new(PORT_STR, BAUD_RATE, DATA_BITS, :none, STOP_BITS)
