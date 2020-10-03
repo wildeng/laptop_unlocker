@@ -5,7 +5,7 @@ Fundamentally I'm lazy and typing a password many times a day is tiring :smiley:
 ## Components
 
 [Arduino Leonardo](https://www.arduino.cc/en/Main/Arduino_BoardLeonardo  
-[RFID-RC522](https://www.amazon.co.uk/dp/B00E0ODLWQ?tag=duckduckgo-osx-uk-21&linkCode=osi&th=1&psc=1)  
+Sunfounder [RFID-RC522](https://www.amazon.co.uk/dp/B00E0ODLWQ?tag=duckduckgo-osx-uk-21&linkCode=osi&th=1&psc=1)  
 A common breadboard, a USB cable to power the board and some wiring   
 
 ### Instructions
